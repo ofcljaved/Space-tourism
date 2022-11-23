@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Space-tourism/precache-manifest.986e59d986c8f04b4157d8cb15221333.js"
+  "/space-tourism/precache-manifest.0f0aacc82efc1a942193fd6e4c6d8a90.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Space-tourism/index.html", {
+workbox.routing.registerNavigationRoute("/space-tourism/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
