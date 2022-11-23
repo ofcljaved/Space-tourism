@@ -5,13 +5,13 @@ import Crew from './Crew';
 import Technology from './Technology';
 import Home from './Home';
 import Header from './Header';
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import {HashRouter, Routes, Route} from 'react-router-dom';
 
 
 const App = () => {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Header/>
         <Routes>
           <Route path='/' element={<Home/>}/>
@@ -19,7 +19,7 @@ const App = () => {
           <Route path='/crew' element={<Crew/>}/>
           <Route path='/technology' element={<Technology/>}/>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   )
 }
