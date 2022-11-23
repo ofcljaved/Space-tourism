@@ -16,12 +16,16 @@ self.__precacheManifest = [
     "url": "/space-tourism/static/js/runtime~main.8e5272bc.js"
   },
   {
-    "revision": "a94f790beb79f232450ec1b68aff956c",
-    "url": "/space-tourism/static/media/background-home-mobile.a94f790b.jpg"
+    "revision": "796a83e74f648c5cfefed789882e1743",
+    "url": "/space-tourism/static/media/background-home-desktop.796a83e7.jpg"
   },
   {
     "revision": "0ee1872af1cd06a92b2977e634a0e4c7",
     "url": "/space-tourism/static/media/background-home-tablet.0ee1872a.jpg"
+  },
+  {
+    "revision": "a94f790beb79f232450ec1b68aff956c",
+    "url": "/space-tourism/static/media/background-home-mobile.a94f790b.jpg"
   },
   {
     "revision": "3147d06c9a9c6166804bc0297cb8bbfa",
@@ -30,10 +34,6 @@ self.__precacheManifest = [
   {
     "revision": "3a7c33c578c87a8fec83ddb6661cd31a",
     "url": "/space-tourism/static/media/background-destination-mobile.3a7c33c5.jpg"
-  },
-  {
-    "revision": "796a83e74f648c5cfefed789882e1743",
-    "url": "/space-tourism/static/media/background-home-desktop.796a83e7.jpg"
   },
   {
     "revision": "9b36d58f063bbc7e03ef46b70dfada36",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/space-tourism/static/media/background-crew-tablet.7e8b8396.jpg"
   },
   {
-    "revision": "c5469ec594045ad985470d61b696f815",
-    "url": "/space-tourism/static/media/background-technology-tablet.c5469ec5.jpg"
-  },
-  {
     "revision": "cf210dfeab6a0bcd02ee2d251298b68f",
     "url": "/space-tourism/static/media/background-technology-desktop.cf210dfe.jpg"
+  },
+  {
+    "revision": "c5469ec594045ad985470d61b696f815",
+    "url": "/space-tourism/static/media/background-technology-tablet.c5469ec5.jpg"
   },
   {
     "revision": "a342d00e93db3a6606c5a1e82fb903fe",

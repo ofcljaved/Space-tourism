@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/space-tourism/precache-manifest.0f0aacc82efc1a942193fd6e4c6d8a90.js"
+  "/space-tourism/precache-manifest.5b34d1fb8c7dcf149a456349bbb8a43d.js"
 );
 
 workbox.clientsClaim();
